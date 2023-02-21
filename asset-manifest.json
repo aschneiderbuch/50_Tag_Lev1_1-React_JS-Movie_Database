@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/static/css/main.da7041a4.css",
-    "main.js": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/static/js/main.33ecc04b.js",
-    "static/js/787.dc84f290.chunk.js": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/static/js/787.dc84f290.chunk.js",
-    "index.html": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/index.html",
-    "main.da7041a4.css.map": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/static/css/main.da7041a4.css.map",
-    "main.33ecc04b.js.map": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/static/js/main.33ecc04b.js.map",
-    "787.dc84f290.chunk.js.map": "/50_Tag_Lev1_1-React_JS-Movie_Database_2/static/js/787.dc84f290.chunk.js.map"
+    "main.css": "/50_Tag_Lev1_1-React_JS-Movie_Database/static/css/main.da7041a4.css",
+    "main.js": "/50_Tag_Lev1_1-React_JS-Movie_Database/static/js/main.a571bbb1.js",
+    "static/js/787.dc84f290.chunk.js": "/50_Tag_Lev1_1-React_JS-Movie_Database/static/js/787.dc84f290.chunk.js",
+    "index.html": "/50_Tag_Lev1_1-React_JS-Movie_Database/index.html",
+    "main.da7041a4.css.map": "/50_Tag_Lev1_1-React_JS-Movie_Database/static/css/main.da7041a4.css.map",
+    "main.a571bbb1.js.map": "/50_Tag_Lev1_1-React_JS-Movie_Database/static/js/main.a571bbb1.js.map",
+    "787.dc84f290.chunk.js.map": "/50_Tag_Lev1_1-React_JS-Movie_Database/static/js/787.dc84f290.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da7041a4.css",
-    "static/js/main.33ecc04b.js"
+    "static/js/main.a571bbb1.js"
   ]
 }
