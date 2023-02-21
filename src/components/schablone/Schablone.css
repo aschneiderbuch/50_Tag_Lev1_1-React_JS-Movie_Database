@@ -24,4 +24,7 @@
 }
 .article_Schablone p {
   overflow: hidden;
+}
+.article_Schablone p:nth-of-type(1) {
+  color: blue;
 }/*# sourceMappingURL=Schablone.css.map */
